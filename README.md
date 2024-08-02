@@ -1,3 +1,10 @@
+## GHENO CINE
+
+Projeto de estudo onde foi utilizado as seguintes tecnologias: typescript, sass e API de consumo [TMDB](https://www.themoviedb.org/?language=pt-BR), o projeto consiste em uma página onde mostra os filmes no quais estão em lançamentos no cinema. 
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
