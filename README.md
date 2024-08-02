@@ -3,6 +3,8 @@
 Projeto de estudo onde foi utilizado as seguintes tecnologias: typescript, sass e API de consumo [TMDB](https://www.themoviedb.org/?language=pt-BR), o projeto consiste em uma página onde mostra os filmes no quais estão em lançamentos no cinema. 
 
 
+<div align="center"><img src="img/Screenshot_1.jpg"></div>
+
 
 
 
