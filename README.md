@@ -1,7 +1,9 @@
-## GHENO CINE
+## 🎥 GHENO CINE
 
-Projeto de estudo onde foi utilizado as seguintes tecnologias: typescript, sass e API de consumo [TMDB](https://www.themoviedb.org/?language=pt-BR), o projeto consiste em uma página onde mostra os filmes no quais estão em lançamentos no cinema. 
+Projeto de estudo onde foi utilizado as seguintes tecnologias: typescript e sass, foi consumido a API > [TMDB](https://www.themoviedb.org/?language=pt-BR) para obter as informações dos filmes, o projeto consiste em uma página onde mostra as novidades que estão no cinema. 
 
+
+<div align="center"><img src="img/Screenshot_1.jpg"></div>
 
 
 
